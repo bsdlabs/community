@@ -37,13 +37,16 @@ FreeBSD and its community members, celebrate our wins and make progress on our c
 * The FreeBSD [Code of Conduct](https://www.freebsd.org/internal/code-of-conduct/) always applies. 
   The guidelines below are in addition to these.
 
-DO's and DONT's
-----------------
+DO'S
+----
 
 * DO feel free to bring your own flavour to our persona.
 * DO Represent, not Argue
 * DO ask the team for advice if you're not comfortable or confident posting something.
 * DO tag tweets with a **^XX** suffix, where **XX** are your initials or a similar unique tag
+
+DONT's
+------
 
 * DON'T bash brands, companies, individuals, or other projects.
 * DON'T engage negativity, unless you're **well** equipped to handle it.
