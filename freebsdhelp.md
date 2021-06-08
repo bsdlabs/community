@@ -12,6 +12,8 @@ feedback on a more fleshed out process going forward.
 3. Let them run wild for a month or so, tweak and update the doc with Q/A (FAQ) and other things that come up
 4. Evolve!
 
+ * Faraz ([__kfv__](https://twitter.com/__kfv__)) now has access to the team.
+
 Mission and Purpose
 ===================
 
