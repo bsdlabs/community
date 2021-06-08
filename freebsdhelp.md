@@ -76,16 +76,44 @@ Things We Do
 Specific Examples
 -----------------
 
-* Answer technical, organisational, or process questions asked by Twitter
+* SUPPORT Answer technical, organisational, or process questions asked by Twitter
   users about FreeBSD wherever possible
-* Loop in relevant FreeBSD experts if and when we can't answer questions
+* CONNECT: Loop in relevant FreeBSD experts if and when we can't answer questions
   ourselves, or to provide additional context
-* Share important, pivotal, and momentous commits (src, ports, doc) or other
+* SHARE: Share important, pivotal, and momentous commits (src, ports, doc) or other
   changes within the community
-* Elicit community feedback, e.g. run polls with questions relevant to the
+* CONVERSE AND QUESTION: Elicit community feedback, e.g. run polls with questions relevant to the
   community
-* Highlight unique and/or specific ways people can contribute to the FreeBSD
-  Project
+* AMPLIFY: Highlight fun, new, unique and/or specific ways people can contribute to
+  the FreeBSD Project.
+
+Ideas & Resources
+-----------------------
+
+ * Read through FreeBSDHelp Tweet / ReTweet / Reply history. Tons of different categories of content/tweets.
+ * Setup a saved search like `freebsd lang:en` to monitor for new freebsd mentions. 
+   Include other languages if you can communicate in that language.
+ * Subscribe to [dev-commits-src-main](https://lists.freebsd.org/mailman/listinfo/dev-commits-src-main) mailing list, watch
+  for important or useful commits and tweet the summary and key details. Use @username mentions to thank authors, committers and
+  companies if they sponsored it or were involved in it.
+ * FreeBSDHelp has a [OpenSource Projects](https://twitter.com/i/lists/1340730882705874944) list. Follow their updates via that list, share and
+   amplify their wins. Example: Project birthday, big release. Idea: If the software is in ports, do a showcase tweet on that software
+   and @mention them
+ * FreeBSDHelp has a [FreeBSD People](https://twitter.com/i/lists/1340730882705874944) list. Follow their updates via that list, share and
+   amplify their wins and updates.
+ * Share and remind people about community events, conferences, meetings, upcoming stuff. 3 days before, 1 day before, a few hours before. Gives us opportunities to repeat content, grow participation, and help people not miss out.
+
+  
+Tips
+----
+
+ * Use images in your tweets whenever possible. Examples: Company or Product logos, screenshots, etc.
+ * Put yourself in our followers, and the communities shoes. Always be asking: Would they find this interesting?
+   Does this have overlap with freebsd? Examples: Open Source, Software,  Security, Important industry news/events
+
+
+
+
  
 References
 ==========
