@@ -9,6 +9,8 @@ feedback on a more fleshed out process going forward.
 1. Add people to the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team
    (via TweetDeck)
 2. Add people to this repository with write access
+3. Let them run wild for a month or so, tweak and update the doc with Q/A (FAQ) and other things that come up
+4. Evolve!
 
 Mission and Purpose
 ===================
