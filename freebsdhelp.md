@@ -108,6 +108,7 @@ Tips
 ----
 
  * Use images in your tweets whenever possible. Examples: Company or Product logos, screenshots, etc.
+ * Use popular and important #hashtags, but don't overdo it. Pick the 2 most relevent, MAYBE/RARELY 3.
  * Put yourself in our followers, and the communities shoes. Always be asking: Would they find this interesting?
    Does this have overlap with freebsd? Examples: Open Source, Software,  Security, Important industry news/events
 
