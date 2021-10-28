@@ -2,31 +2,41 @@ Introduction
 ============
 
 We're trialling a few folks who are keen to contribute to the
-[@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account. Right now, the
+[@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account. Right now the
 process is fairly informal, and we're using that as a mechanism to elicit
 feedback on a more fleshed out process going forward.
 
-1. Add people to the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team
-   (via TweetDeck)
-2. Add people to this repository with write access
+While we don't require minimum time commitments or deep/previous experience with communnity organizing and communication, we do have
+some simple expectations that are key to what we're trying to achieve:
+
+ * That team members participate in and as a team rather than in isolation.
+ * That team members drive/champion the evolution of the team, as in "self-directed and proactive".
+ * Participation that is consistent and seeks to be of high quality.
+
+Mission and Purpose
+===================
+
+The main mission is to build a **highly-effective community organizing capability** in and for the FreeBSD Project.
+
+While we're starting 'on social media', social media channels are only the _first test-case_ for team functions across the broader project inmultiple areas, with a common and consistent community organizing framework
+
+The broad strokes of some things we're going to need are:
+
+1. Develop and flesh out community team and workflow documentation.
+2. Develop a high-level roadmap created by the team
+3. Grow the team, execute well and level up FreeBSD's community capabilities.
+4. Start measuring community health & metrics over time
+
+Process
+=======
+
+1. Add people to the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
+2. Add people to this repository 
 3. Let them run wild for a month or so, tweak and update the doc with Q/A (FAQ) and other things that come up
 4. Evolve!
 
  * Faraz ([__kfv__](https://twitter.com/__kfv__)) now has access to the team.
 
-Mission and Purpose
-===================
-
-The broad strokes of what we want to achieve is outlined below:
-
-1. Develop and flesh out community team and workflow documentation
-2. Develop a high-level roadmap created by the team
-3. Grow the team, execute well and level up FreeBSD's community capabilities.
-
-Apart from that, the aim is to have the team drive the evolution process, and
-in the long term, use the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp)
-community team as a test case for community engagement and management
-capabilities across the broader project and other channels.
 
 Guidelines
 ==========
