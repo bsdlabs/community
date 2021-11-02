@@ -30,14 +30,15 @@ The broad strokes of some things we're going to need are:
 Onboarding
 ==========
 
-1. Add team member to this organization and @everyone group
+1. Add team member to this organization and @everyone team
 2. Add team member to [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
 3. YOU: Add yourself to the "Team" section with Bio, location, timezone, join date and some links (twitter, homepage, etc)
-4. YOU: Send an tweet out to the world on @FreeBSDHelp introducing yourself
-5. YOU: Review this document, make at least onne non trivial edits (via pull request) to to clarify things or add detail
-6. YOU: Run wild for a month, tweak and update the doc with Q/A (FAQ) and other things that come up as you go.
-7. YOU: Get help, ask questions, participate in the team.
-8. Evolve this onboarding process.
+4. YOU: Touch base and intro yourself to the team
+5. YOU: Send an tweet out to the world on @FreeBSDHelp introducing yourself
+6. YOU: Review this document, make at least onne non trivial edits (via pull request) to to clarify things or add detail
+7. YOU: Run wild for a month, tweak and update the doc with Q/A (FAQ) and other things that come up as you go.
+8. YOU: Get help, ask questions, participate in the team.
+9. Evolve this onboarding process.
 
 Team
 ====
