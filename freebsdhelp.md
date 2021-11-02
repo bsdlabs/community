@@ -27,16 +27,22 @@ The broad strokes of some things we're going to need are:
 3. Grow the team, execute well and level up FreeBSD's community capabilities.
 4. Start measuring community health & metrics over time
 
-Process
-=======
+Onboarding
+==========
 
-1. Add people to the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
-2. Add people to this repository 
-3. Let them run wild for a month or so, tweak and update the doc with Q/A (FAQ) and other things that come up
-4. Evolve!
+1. Add team member to this organization and @everyone group
+2. Add team member to [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
+3. YOU: Add yourself to the "Team" section with Bio, location, timezone, join date and some links (twitter, homepage, etc)
+4. YOU: Send an tweet out to the world on @FreeBSDHelp introducing yourself
+5. YOU: Review this document, make at least onne non trivial edits (via pull request) to to clarify things or add detail
+6. YOU: Run wild for a month, tweak and update the doc with Q/A (FAQ) and other things that come up as you go.
+7. YOU: Get help, ask questions, participate in the team.
+8. Evolve this onboarding process.
 
- * Faraz ([__kfv__](https://twitter.com/__kfv__)) now has access to the team.
+Team
+====
 
+ * Faraz ([__kfv__](https://twitter.com/__kfv__)) 
 
 Guidelines
 ==========
