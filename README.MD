@@ -48,13 +48,8 @@ Onboarding
 10. YOU: Get help, ask questions, participate in the team.
 11. Evolve this onboarding process.
 
-Team
-====
-
- * Faraz ([__kfv__](https://twitter.com/__kfv__)) 
- * Ji-Haw ([@KungFoo10](https://twitter.com/kungfoo10))
-
-# [Guidelines](https://github.com/bsdlabs/community/blob/main/guidelines.md)
+# [Team](team.md)
+# [Guidelines](guidelines.md)
 
  
 References
