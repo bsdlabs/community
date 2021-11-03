@@ -52,6 +52,7 @@ Team
 ====
 
  * Faraz ([__kfv__](https://twitter.com/__kfv__)) 
+ * Ji-Haw ([@KungFoo10](https://twitter.com/kungfoo10))
 
 Guidelines
 ==========
