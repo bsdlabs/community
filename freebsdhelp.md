@@ -33,12 +33,13 @@ Onboarding
 1. Add team member to this organization and @everyone team
 2. Add team member to [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
 3. YOU: Add yourself to the "Team" section with Bio, location, timezone, join date and some links (twitter, homepage, etc)
-4. YOU: Touch base and intro yourself to the team
-5. YOU: Send an tweet out to the world on @FreeBSDHelp introducing yourself
-6. YOU: Review this document, make at least onne non trivial edits (via pull request) to to clarify things or add detail
-7. YOU: Run wild for a month, tweak and update the doc with Q/A (FAQ) and other things that come up as you go.
-8. YOU: Get help, ask questions, participate in the team.
-9. Evolve this onboarding process.
+4. YOU: Get your environment setup (Recommend: [BetterTweetDeck (Browser Extension)](https://better.tw/) or [TweetDeck (Web)](https://tweetdeck.twitter.com/) 
+5. YOU: Touch base and intro yourself to the team
+6. YOU: Send an tweet out to the world on @FreeBSDHelp introducing yourself
+7. YOU: Review this document, make at least onne non trivial edits (via pull request) to to clarify things or add detail
+8. YOU: Run wild for a month, tweak and update the doc with Q/A (FAQ) and other things that come up as you go.
+9. YOU: Get help, ask questions, participate in the team.
+10. Evolve this onboarding process.
 
 Team
 ====
