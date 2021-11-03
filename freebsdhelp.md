@@ -18,7 +18,7 @@ Mission and Purpose
 
 The main mission is to build a **highly-effective community organizing capability** in and for the FreeBSD Project.
 
-While we're starting 'on social media', social media channels are only the _first test-case_ for team functions across the broader project inmultiple areas, with a common and consistent community organizing framework
+While we're starting 'on social media', social media channels are only the _first test-case_ for team functions across the broader project in multiple areas, with a common and consistent community organizing framework
 
 The broad strokes of some things we're going to need are:
 
@@ -33,7 +33,10 @@ Onboarding
 1. Add team member to this organization and @everyone team
 2. Add team member to [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
 3. YOU: Add yourself to the "Team" section with Bio, location, timezone, join date and some links (twitter, homepage, etc)
-4. YOU: Get your environment setup (Recommend: [BetterTweetDeck (Browser Extension)](https://better.tw/) or [TweetDeck (Web)](https://tweetdeck.twitter.com/) 
+4. YOU: Get your environment setup. Recommend:
+   * [BetterTweetDeck (Browser Extension)](https://better.tw/)
+   * [TweetDeck (Web)](https://tweetdeck.twitter.com/)
+   * [TweetDeck (macOS)](https://apps.apple.com/us/app/tweetdeck-by-twitter/id485812721)
 5. YOU: Touch base and intro yourself to the team
 6. YOU: Send an tweet out to the world on @FreeBSDHelp introducing yourself
 7. YOU: Review this document, make at least onne non trivial edits (via pull request) to to clarify things or add detail
