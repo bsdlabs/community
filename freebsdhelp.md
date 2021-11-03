@@ -32,7 +32,7 @@ Onboarding
 
 1. Add team member to this organization and @everyone team
 2. Add team member to [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
-3. YOU: Add yourself to the "Team" section in this document with:
+3. YOU: Create a PR adding yourself to the "Team" section in this document with:
    * Background and bio/summary
    * Location (country is fine) & timezone
    * Some links (twitter, homepage, etc)
