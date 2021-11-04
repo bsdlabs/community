@@ -32,6 +32,25 @@ The broad strokes of some things we're going to need are:
 3. Grow the team, execute well and level up FreeBSD's community capabilities.
 4. Start measuring community health & metrics over time.
 
+## Guidelines
+
+While the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account is
+**not** an official FreeBSD account, it does aim to be the exemplar of best
+practice community engagement; commercial, opensource or otherwise.
+
+Our tone is friendly, fun, authentic, aspirational and slightly tongue-in-cheek.
+We exist to connect people and groups within the FreeBSD community with each
+other, showcase the best of FreeBSD and its community members, celebrate our
+wins and make progress on our challenges.
+
+* Besides the FreeBSD [Code of Conduct](https://www.freebsd.org/internal/code-of-conduct/) that always applies, the following guidelines should be followed as well.
+
+We highly recomment reading the following open source project social media policies and guidelines:
+
+* [GitLab: Social Media Policy and Guidelines](https://about.gitlab.com/handbook/marketing/social-media-guidelines/)
+* [OWASP: Social Media Policy and Procedures](https://owasp.org/www-policy/operational/social-media)
+* [Apache: Social Media Best Practices](https://www.apache.org/foundation/marks/socialmedia)
+
 ## Things We Do
 
 * Respond to FreeBSD mentions on Twitter in a timely manner with quality engagement.
@@ -41,13 +60,21 @@ The broad strokes of some things we're going to need are:
 * Positively amplify the work and contributions of relevant and related open-source Projects on Twitter.
 * Promote a positive, fun, and productive discourse and presence online.
 
+### Specific Examples
+
+* SUPPORT: Answer technical, organisational, or process questions asked by Twitter users about FreeBSD wherever possible.
+* CONNECT: Loop in relevant FreeBSD experts if and when we can't answer questions ourselves, or to provide additional context.
+* SHARE: Share important, pivotal, and momentous commits (src, ports, doc) or other changes within the community.
+* CONVERSE AND QUESTION: Elicit community feedback, e.g. run polls with questions relevant to the community.
+* AMPLIFY: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.****
+
 ## Team
 
  * Faraz ([__kfv__](https://twitter.com/__kfv__)) 
  * Ji-Haw ([@KungFoo10](https://twitter.com/kungfoo10))
  * Ken ([@khbsd_](https://twitter.com/khbsd_))
 
-## Onboarding
+### Onboarding
 
 1. Add team member to this organization and @everyone team.
 2. Add team member to [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck).
@@ -67,21 +94,7 @@ The broad strokes of some things we're going to need are:
 10. YOU: Get help, ask questions, participate in the team.
 11. Evolve this onboarding process.
 
-
-## Guidelines
-
-While the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account is
-**not** an official FreeBSD account, it does aim to be the exemplar of best
-practice community engagement; commercial, opensource or otherwise.
-
-Our tone is friendly, fun, authentic, aspirational and slightly tongue-in-cheek.
-We exist to connect people and groups within the FreeBSD community with each
-other, showcase the best of FreeBSD and its community members, celebrate our
-wins and make progress on our challenges.
-
-* Besides the FreeBSD [Code of Conduct](https://www.freebsd.org/internal/code-of-conduct/) that always applies, the following guidelines should be followed as well.
-
-## DOs & DONT'S
+### DOs & DONT'S
 
 DO's
 
@@ -99,15 +112,7 @@ DONT'S
 * DON'T speculate
 * DON'T spam
 
-## Specific Examples
-
-* SUPPORT: Answer technical, organisational, or process questions asked by Twitter users about FreeBSD wherever possible.
-* CONNECT: Loop in relevant FreeBSD experts if and when we can't answer questions ourselves, or to provide additional context.
-* SHARE: Share important, pivotal, and momentous commits (src, ports, doc) or other changes within the community.
-* CONVERSE AND QUESTION: Elicit community feedback, e.g. run polls with questions relevant to the community.
-* AMPLIFY: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.
-
-## Ideas & Resources
+### Ideas & Resources
 
  * Read through FreeBSDHelp Tweet / ReTweet / Reply history. Tons of different categories of content/tweets.
  * Setup a saved search like `freebsd lang:en` to monitor for new freebsd mentions. Include other languages if you can communicate in that language.
@@ -116,7 +121,7 @@ DONT'S
  * FreeBSDHelp has a [FreeBSD People](https://twitter.com/i/lists/1340730882705874944) list. Follow their updates via that list, share and amplify their wins and updates.
  * Share and remind people about community events, conferences, meetings, upcoming stuff. 3 days before, 1 day before, a few hours before. Gives us opportunities to repeat content, grow participation, and help people not miss out.
 
-## Tips
+### Tips
 
  * Use images in your tweets whenever possible. Examples: Company or Product logos, screenshots, etc.
  * Use popular and important #hashtags, but don't overdo it. Pick the 2 most relevent, MAYBE/RARELY 3.
@@ -124,9 +129,3 @@ DONT'S
    * Would they find this interesting?
    * Does this have overlap with FreeBSD? Can it have an overlap to FreeBSD? 
    * Examples: Open Source, Software,  Security, Important or popular tech industry news/events.
-   
-## References
-
-* [GitLab: Social Media Policy and Guidelines](https://about.gitlab.com/handbook/marketing/social-media-guidelines/)
-* [OWASP: Social Media Policy and Procedures](https://owasp.org/www-policy/operational/social-media)
-* [Apache: Social Media Best Practices](https://www.apache.org/foundation/marks/socialmedia)
