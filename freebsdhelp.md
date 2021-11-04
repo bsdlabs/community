@@ -1,4 +1,4 @@
-# FreeBSDHelp Overview
+# FreeBSDHelp Team & Overview
 
 ## Introduction
 
