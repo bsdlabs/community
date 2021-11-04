@@ -1,5 +1,6 @@
-Introduction
-============
+# FreeBSDHelp Overview
+
+## Introduction
 
 We're trialling a few folks who are keen to contribute to the
 [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account. Right now the
@@ -13,8 +14,7 @@ some simple expectations that are key to what we're trying to achieve:
  * That team members drive/champion the evolution of the team, as in "self-directed and proactive".
  * Participation that is consistent and seeks to be of high quality.
 
-Mission and Purpose
-===================
+## Mission and Purpose
 
 The main mission is to build a **highly-effective community organizing capability** in and for the FreeBSD Project.
 
@@ -27,8 +27,7 @@ The broad strokes of some things we're going to need are:
 3. Grow the team, execute well and level up FreeBSD's community capabilities.
 4. Start measuring community health & metrics over time
 
-Onboarding
-==========
+## Onboarding
 
 1. Add team member to this organization and @everyone team
 2. Add team member to [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) team (via TweetDeck)
@@ -48,15 +47,13 @@ Onboarding
 10. YOU: Get help, ask questions, participate in the team.
 11. Evolve this onboarding process.
 
-Team
-====
+## Team
 
  * Faraz ([__kfv__](https://twitter.com/__kfv__)) 
  * Ji-Haw ([@KungFoo10](https://twitter.com/kungfoo10))
  * Ken ([@khbsd_](https://twitter.com/khbsd_))
 
-Guidelines
-==========
+## Guidelines
 
 While the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account is
 **not** an official FreeBSD account, it does aim to be the exemplar of best
@@ -70,9 +67,11 @@ wins and make progress on our challenges.
 * Besides the FreeBSD [Code of
   Conduct](https://www.freebsd.org/internal/code-of-conduct/) that always
   applies, the following guidelines should be followed as well.
+  
+It is a good idea to read through other open source project social media policies:
 
-DOs
-----
+## DOs
+
 
 * DO feel free to bring your own flavour to our persona
 * DO represent, not argue
@@ -81,8 +80,7 @@ DOs
 * DO tag tweets with a **^XX** suffix, where **XX** are your initials or a
   similar unique tag
 
-DON'Ts
-------
+## DON'Ts
 
 * DON'T bash brands, companies, individuals, or other projects
 * DON'T engage negativity, unless you're **well** equipped to handle it
@@ -91,8 +89,7 @@ DON'Ts
   with you in confidence or within private channels
 * DON'T speculate
 
-Things We Do
-------------
+## Things We Do
 
 * Respond to FreeBSD mentions on Twitter in a timely manner with quality
   engagement
@@ -104,8 +101,7 @@ Things We Do
   open-source Projects on Twitter
 * Promote a positive, fun, and productive discourse and presence online
 
-Specific Examples
------------------
+## Specific Examples
 
 * SUPPORT Answer technical, organisational, or process questions asked by Twitter
   users about FreeBSD wherever possible
@@ -118,8 +114,7 @@ Specific Examples
 * AMPLIFY: Highlight fun, new, unique and/or specific ways people can contribute to
   the FreeBSD Project.
 
-Ideas & Resources
------------------------
+## Ideas & Resources
 
  * Read through FreeBSDHelp Tweet / ReTweet / Reply history. Tons of different categories of content/tweets.
  * Setup a saved search like `freebsd lang:en` to monitor for new freebsd mentions. 
@@ -134,21 +129,14 @@ Ideas & Resources
    amplify their wins and updates.
  * Share and remind people about community events, conferences, meetings, upcoming stuff. 3 days before, 1 day before, a few hours before. Gives us opportunities to repeat content, grow participation, and help people not miss out.
 
-  
-Tips
-----
+## Tips
 
  * Use images in your tweets whenever possible. Examples: Company or Product logos, screenshots, etc.
  * Use popular and important #hashtags, but don't overdo it. Pick the 2 most relevent, MAYBE/RARELY 3.
  * Put yourself in our followers, and the communities shoes. Always be asking: Would they find this interesting?
    Does this have overlap with freebsd? Examples: Open Source, Software,  Security, Important industry news/events
-
-
-
-
- 
-References
-==========
+   
+## References
 
 * [GitLab: Social Media Policy and
   Guidelines](https://about.gitlab.com/handbook/marketing/social-media-guidelines/)
