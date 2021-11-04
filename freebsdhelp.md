@@ -68,7 +68,7 @@ other, showcase the best of FreeBSD and its community members, celebrate our
 wins and make progress on our challenges.
 
 * Besides the FreeBSD [Code of
-  Conduct](https://www.freebsd.org/internal/code-of-conduct/) tjat always
+  Conduct](https://www.freebsd.org/internal/code-of-conduct/) that always
   applies, the following guidelines should be followed as well.
 
 DOs
