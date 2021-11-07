@@ -24,14 +24,3 @@ The broad strokes of some things we're going to need are:
 # [Team](team.md)
 # [How we work](howwework.md)
 # [Guidelines](guidelines.md)
-
- 
-References
-==========
-
-* [GitLab: Social Media Policy and
-  Guidelines](https://about.gitlab.com/handbook/marketing/social-media-guidelines/)
-* [OWASP: Social Media Policy and
-  Procedures](https://owasp.org/www-policy/operational/social-media)
-* [Apache: Social Media Best
-  Practices](https://www.apache.org/foundation/marks/socialmedia)
