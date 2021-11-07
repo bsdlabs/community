@@ -1,7 +1,7 @@
 Introduction
 ============
 
-<Add community team introduction>
+`TODO: <Add community team introduction>`
 
 Mission and Purpose
 ===================
