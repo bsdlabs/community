@@ -22,5 +22,5 @@ The broad strokes of some things we're going to need are:
 
 # [Onboarding](onboarding.md)
 # [Team](team.md)
-# [How we work](howwework.md)
+# [How We Work](playbook.md)
 # [Guidelines](guidelines.md)
