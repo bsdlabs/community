@@ -13,3 +13,8 @@
   - About: Massive computer nerd. Loves old computers, UNIX, and BSD. Is goofier than you.
   - Twitter: [@khbsd_](https://twitter.com/khbsd_)
   - Timezone: CST, (GMT -0600)
+
+## Mitchell
+- About: Started with a 6502 and 8KB RAM, Extra class amateur radio operator, employed in academia. Physics, HPC, and Cybersecurity background.
+- Twitter: [@mitchellclay](https://twitter.com/mitchellclay)
+- Timezone: CST, (GMT -0600)
