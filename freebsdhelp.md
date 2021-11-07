@@ -15,12 +15,6 @@ simple expectations that are key to what we're trying to achieve:
  * That team members drive/champion the evolution of the team, as in  "self-directed, self-organized and proactive".
  * Participation that is consistent and seeks to be of high quality.
 
-## Team
-
- * Faraz ([__kfv__](https://twitter.com/__kfv__)) 
- * Ji-Haw ([@KungFoo10](https://twitter.com/kungfoo10))
- * Ken ([@khbsd_](https://twitter.com/khbsd_))
-
 ### Onboarding
 
 1. Add team member to this organization and @everyone team.
