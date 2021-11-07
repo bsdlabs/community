@@ -1,17 +1,7 @@
 Introduction
 ============
 
-We're trialling a few folks who are keen to contribute to the
-[@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account. Right now the
-process is fairly informal, and we're using that as a mechanism to elicit
-feedback on a more fleshed out process going forward.
-
-While we don't require minimum time commitments or deep/previous experience with communnity organizing and communication, we do have
-some simple expectations that are key to what we're trying to achieve:
-
- * That team members participate in and as a team rather than in isolation.
- * That team members drive/champion the evolution of the team, as in "self-directed and proactive".
- * Participation that is consistent and seeks to be of high quality.
+<Add community team introduction>
 
 Mission and Purpose
 ===================
