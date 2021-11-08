@@ -58,7 +58,7 @@ DONT'S
  * Setup a saved search like `freebsd lang:en` to monitor for new freebsd mentions. Include other languages if you can communicate in that language.
  * Subscribe to [dev-commits-src-main](https://lists.freebsd.org/mailman/listinfo/dev-commits-src-main) mailing list, watch for important or useful commits and tweet the summary and key details. Use @username mentions to thank authors, committers and companies if they sponsored it or were involved in it.
  * FreeBSDHelp has a [OpenSource Projects](https://twitter.com/i/lists/1340730882705874944) list. Follow their updates via that list, share and amplify their wins. **Example**: Project birthday or big release. **Idea**: If the software is in ports, do a showcase tweet on that software and @mention them.
- * FreeBSDHelp has a [FreeBSD People](https://twitter.com/i/lists/1340730882705874944) list. Follow their updates via that list, share and amplify their wins and updates.
+ * FreeBSDHelp has a [FreeBSD People](https://twitter.com/i/lists/81179014) list. Follow their updates via that list, share and amplify their wins and updates.
  * Share and remind people about community events, conferences, meetings, upcoming stuff. 3 days before, 1 day before, a few hours before. Gives us opportunities to repeat content, grow participation, and help people not miss out.
 
   
