@@ -24,7 +24,6 @@ DO's
 * DO feel free to bring your own flavour to our persona
 * DO represent, not argue
 * DO ask the team for advice if you're not comfortable or confident posting something
-* DO tag tweets with a **^XX** suffix, where **XX** are your initials or a similar unique tag
 
 DONT'S
 
