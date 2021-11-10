@@ -31,7 +31,8 @@
 
 ## Mitchell
 - About: Started with a 6502 and 8KB RAM, Extra class amateur radio operator, employed in academia. Physics, HPC, and Cybersecurity background.
-- Experience
-- Interests:
+- Experience: System Administration, Managed Services, Computer Science Instructor
+- Interests: system design, security, neural networks, heterogeneous computing, FPGAs
+- Skills: programming (C, C++, Java, MIPS assembly, OpenCL), parallel/distributed computing, microcontrollers, network administration
 - Twitter: [@mitchellclay](https://twitter.com/mitchellclay)
 - Timezone: CST, (GMT -0600)
