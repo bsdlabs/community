@@ -10,7 +10,8 @@
 - Timezone: Central Time, US (GMT -0600)
 
 ## Ken (khbsd_)
-  - About: Massive computer nerd. Loves old computers, UNIX, and BSD. Is goofier than you.
+  - About: Massive computer nerd. Loves old computers, UNIX, and BSD. Is 10% goofier than you.
+  - Skills: Proficient in Python, Java, HTML and CSS. Can probably pick up whatever else is needed. Desktop Expert, customizer.
   - Twitter: [@khbsd_](https://twitter.com/khbsd_)
   - Timezone: CST, (GMT -0600)
 
