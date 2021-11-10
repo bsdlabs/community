@@ -4,6 +4,7 @@
 - About:
 - Experience:
 - Interests:
+- Skills:
 - Twitter:
 - Timezone:
 
@@ -11,6 +12,7 @@
 - About:
 - Experience:
 - Interests:
+- Skills:
 - Twitter: [@__kfv__](https://twitter.com/__kfv__)
 - Timezone: ?
 
@@ -18,6 +20,7 @@
 - About: Tinkers in solar, ESP32. Used to deploy FreeBSD commercially; now runs them personally in the garage.
 - Experience:
 - Interests:
+- Skills:
 - Twitter: [@KungFoo10](https://twitter.com/kungfoo10)
 - Timezone: Central Time, US (GMT -0600)
 
