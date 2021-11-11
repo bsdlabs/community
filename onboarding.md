@@ -55,4 +55,15 @@ You're all set! Bonus points if you used a \*BSD to do this- I didn't, lmao.
 
 2. Click "Join @bsdlabs" and you're in! You can edit the [Team](https://github.com/bsdlabs/community/blob/main/team.md) and [FreeBSDHelp](https://github.com/bsdlabs/community/blob/main/freebsdhelp.md) pages to add yourself to the team. Make sure you check out the [Guidelines](https://github.com/bsdlabs/community/blob/main/guidelines.md) page too!
 
+3. For non-trivial changes to documentation:
+
+    * click the edit button 
+      ![image](https://user-images.githubusercontent.com/55418217/141223502-36931542-4305-404a-94b7-0372208917c5.png)
+      
+    * make desired changes and then choose the option to "Create a new branch for this commit and start a pull request." and click "Propose changes"
+      ![image](https://user-images.githubusercontent.com/55418217/141225079-cf9a3232-df0f-48a7-b393-7430b460b91e.png)
+      
+    * finally, open the Pull Request by clicking "Create Pull Request" on the screen that follows
+      ![image](https://user-images.githubusercontent.com/55418217/141225576-3ed8247f-834c-4c88-804b-2c2e8aa3cef7.png)
+
 More bonus points if you used a \*BSD. :D
