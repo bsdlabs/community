@@ -14,7 +14,7 @@
 - Experience:
 - Interests:
 - Skills:
-- Timezone: Central Time, US (GMT -0600)
+- Timezone: US, (UTC -6)
 - Twitter: [@KungFoo10](https://twitter.com/kungfoo10)
 
 ## Ken (khbsd_)
@@ -22,7 +22,7 @@
 - Experience: Telecom Field Tech, hobbyist computer enthusiast/programmer.
 - Interests: 80s computers, UNIX, Programming, Infosec.
 - Skills: Proficient in Python, Java, HTML and CSS. Can probably pick up whatever else is needed. Desktop Expert, customizer.
-- Timezone: CST, (GMT -0600)
+- Timezone: US, (UTC -6)
 - Twitter: [@khbsd_](https://twitter.com/khbsd_)
 
 ## Mitchell
@@ -30,12 +30,12 @@
 - Experience: System Administration, Managed Services, Computer Science Instructor
 - Interests: system design, security, neural networks, heterogeneous computing, FPGAs
 - Skills: programming (C, C++, Java, MIPS assembly, OpenCL), parallel/distributed computing, microcontrollers, network administration
-- Timezone: CST, (GMT -0600)
+- Timezone: US, (UTC -6)
 - Twitter: [@mitchellclay](https://twitter.com/mitchellclay)
 
 ## [Kubilay](https://wiki.freebsd.org/KubilayKocak/) (koobs)
 - About: Independent technology consultant over 20+ years exclusively in Open Source systems. FreeBSD Ports committer also working on long-term, high-impact community engagement, project branding, culture and advocacy in The FreeBSD Project via several community facing FreeBSD channels, teams and services.
 - Experience: open source infrastructure & operations, product development & management, technnical consulting
 - Interests: open source, open access, open science, embedded hardware, machine learning, sustainable open source funding
-- Timezone: Sydney, Australia (UTC+10)
+- Timezone: Sydney, Australia (UTC +10)
 - Twitter: [@koobs](https://twitter.com/koobs)
