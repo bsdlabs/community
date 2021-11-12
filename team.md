@@ -1,12 +1,12 @@
 # Team
 
 ## Faraz (kfv)
-- About:
-- Experience:
-- Interests:
-- Skills:
-- Twitter: [@__kfv__](https://twitter.com/__kfv__)
-- Timezone: ?
+- About: Futurist software engineer with a strong background in UNIX environments and TCP/IP.
+- Experience: Infrastructure, Research and Development, Technical Supervision, Instruction, and Leadership. 
+- Interests: Embedded Systems, Compilers, Networks, Maths, Chess, Algorithms, Futurology, Philosophy, and Politics.
+- Skills: Leadership, Management, Negotiation, C, C++, Rust, and LaTeX.
+- Twitter: [@\_\_kfv\_\_](https://twitter.com/__kfv__)
+- Timezone: IRST, (UTC +0330)
 
 ## Foo, Ji-Haw
 - About: Tinkers in solar, ESP32. Used to deploy FreeBSD commercially; now runs them personally in the garage.
