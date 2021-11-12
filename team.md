@@ -1,13 +1,5 @@
 # Team
 
-## Kubilay (koobs)
-- About:
-- Experience:
-- Interests:
-- Skills:
-- Twitter:
-- Timezone:
-
 ## Faraz (kfv)
 - About:
 - Experience:
@@ -39,3 +31,13 @@
 - Skills: programming (C, C++, Java, MIPS assembly, OpenCL), parallel/distributed computing, microcontrollers, network administration
 - Twitter: [@mitchellclay](https://twitter.com/mitchellclay)
 - Timezone: CST, (GMT -0600)
+
+## Kubilay (koobs)
+
+Independent technology consultant over 20+ years exclusively in Open Source systems. FreeBSD Ports committer also working on long-term, high-impact community engagement, project branding, culture and advocacy in The FreeBSD Project via several community facing FreeBSD channels, teams and services. 
+
+- Experience: open source infrastructure & operations, product development & management, technnical consulting
+- Interests: open source, open access, open science, embedded hardware, machine learning, sustainable open source funding
+- Twitter: [@koobs](https://twitter.com/koobs)
+- More Info: [FreeBSD Wiki: KubilayKocak](https://wiki.freebsd.org/KubilayKocak/)
+- Timezone: Sydney, Australia (UTC+10)
