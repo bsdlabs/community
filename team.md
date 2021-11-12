@@ -6,7 +6,7 @@
 - Interests: Embedded Systems, Compilers, Networks, Maths, Chess, Algorithms, Futurology, Philosophy, and Politics.
 - Skills: Leadership, Management, Negotiation, C, C++, Rust, and LaTeX.
 - Twitter: [@\_\_kfv\_\_](https://twitter.com/__kfv__)
-- Timezone: IRST, (UTC +0330)
+- Timezone: Teheran, Iran (UTC +3:30)
 
 ## Foo, Ji-Haw
 - About: Tinkers in solar, ESP32. Used to deploy FreeBSD commercially; now runs them personally in the garage.
@@ -21,7 +21,7 @@
 - Experience: Telecom Field Tech, hobbyist computer enthusiast/programmer.
 - Interests: 80s computers, UNIX, Programming, Infosec.
 - Skills: Proficient in Python, Java, HTML and CSS. Can probably pick up whatever else is needed. Desktop Expert, customizer.
-- Timezone: US, (UTC -6)
+- Timezone: US, TX (UTC -6)
 - Twitter: [@khbsd_](https://twitter.com/khbsd_)
 
 ## [Kubilay](https://wiki.freebsd.org/KubilayKocak/) (koobs)
