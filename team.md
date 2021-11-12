@@ -1,13 +1,12 @@
 # Team
 
 ## Faraz (kfv)
-- About:
-- Experience:
-- Interests:
-- Skills:
-- Timezone: ?
-- Twitter: [@__kfv__](https://twitter.com/__kfv__)
-
+- About: Futurist software engineer with a strong background in UNIX environments and TCP/IP.
+- Experience: Infrastructure, Research and Development, Technical Supervision, Instruction, and Leadership. 
+- Interests: Embedded Systems, Compilers, Networks, Maths, Chess, Algorithms, Futurology, Philosophy, and Politics.
+- Skills: Leadership, Management, Negotiation, C, C++, Rust, and LaTeX.
+- Twitter: [@\_\_kfv\_\_](https://twitter.com/__kfv__)
+- Timezone: IRST, (UTC +0330)
 
 ## Foo, Ji-Haw
 - About: Tinkers in solar, ESP32. Used to deploy FreeBSD commercially; now runs them personally in the garage.
@@ -25,6 +24,13 @@
 - Timezone: US, (UTC -6)
 - Twitter: [@khbsd_](https://twitter.com/khbsd_)
 
+## [Kubilay](https://wiki.freebsd.org/KubilayKocak/) (koobs)
+- About: Independent technology consultant over 20+ years exclusively in Open Source systems. FreeBSD Ports committer also working on long-term, high-impact community engagement, project branding, culture and advocacy in The FreeBSD Project via several community facing FreeBSD channels, teams and services.
+- Experience: open source infrastructure & operations, product development & management, technnical consulting
+- Interests: open source, open access, open science, embedded hardware, machine learning, sustainable open source funding
+- Timezone: Sydney, Australia (UTC +10)
+- Twitter: [@koobs](https://twitter.com/koobs)
+
 ## Mitchell
 - About: Started with a 6502 and 8KB RAM, Extra class amateur radio operator, employed in academia. Physics, HPC, and Cybersecurity background.
 - Experience: System Administration, Managed Services, Computer Science Instructor
@@ -33,9 +39,4 @@
 - Timezone: US, (UTC -6)
 - Twitter: [@mitchellclay](https://twitter.com/mitchellclay)
 
-## [Kubilay](https://wiki.freebsd.org/KubilayKocak/) (koobs)
-- About: Independent technology consultant over 20+ years exclusively in Open Source systems. FreeBSD Ports committer also working on long-term, high-impact community engagement, project branding, culture and advocacy in The FreeBSD Project via several community facing FreeBSD channels, teams and services.
-- Experience: open source infrastructure & operations, product development & management, technnical consulting
-- Interests: open source, open access, open science, embedded hardware, machine learning, sustainable open source funding
-- Timezone: Sydney, Australia (UTC +10)
-- Twitter: [@koobs](https://twitter.com/koobs)
+
