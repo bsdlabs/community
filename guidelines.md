@@ -17,31 +17,22 @@ We highly recomment reading the following open source project social media polic
 * [OWASP: Social Media Policy and Procedures](https://owasp.org/www-policy/operational/social-media)
 * [Apache: Social Media Best Practices](https://www.apache.org/foundation/marks/socialmedia)
 
-### DOs & DONT'S
+### How We Work
 
-DO's
-
-* DO feel free to bring your own flavour to our persona
-* DO represent, not argue
-* DO ask the team for advice if you're not comfortable or confident posting something
-
-DONT'S
-
-* DON'T bash brands, companies, individuals, or other projects
-* DON'T engage negativity, unless you're **well** equipped to handle it
-* DON'T share your personal information, or anyone else's
-* DON'T share confidential information, including any kind of information shared with you in confidence or within private channels
-* DON'T speculate
-* DON'T spam
-
-### Things We Do
-
+* Feel free to bring your own flavour to our persona
+* Represent, don't argue
+* Ask the team for advice if you're not comfortable or confident posting something
 * Respond to FreeBSD mentions on Twitter in a timely manner with quality engagement.
 * Amplify the contributions of community members, e.g. retweet someone's first issue created or port maintained.
 * Amplify the voice of community members, users and contributors alike.
 * Stimulate positive conversation and discourse about FreeBSD.
 * Positively amplify the work and contributions of relevant and related open-source Projects on Twitter.
 * Promote a positive, fun, and productive discourse and presence online.
+* Avoid bashing brands, companies, individuals, or other projects
+* Ignore negativity, unless you're **well** equipped to handle it
+* Don't share any personal/confidential information, including any kind of information shared with you in confidence or within private channels
+* Avoid speculation
+* Don't spam
 
 ### Specific Examples
 

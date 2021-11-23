@@ -1,14 +1,12 @@
 Introduction
 ============
 
-`TODO: <Add community team introduction>`
-
 ## Mission and Purpose
 
 The main mission is to build a **highly-effective community organizing
 team and capability** in, and for, the FreeBSD Project.
 
-While we're starting 'on social media' (see [freebsdhelp.md](freebsdhelp.md)), social media channels are only
+While we're starting on social media (see [freebsdhelp.md](freebsdhelp.md)), social media channels are only
 the _first test-case_ for team functions across the broader project in
 multiple areas, with a common and consistent community organizing
 framework.
@@ -20,7 +18,6 @@ The broad strokes of some things we're going to need are:
 3. Grow the team, execute well and level up FreeBSD's community capabilities.
 4. Start measuring community health & metrics over time.
 
-# [Onboarding](onboarding.md)
-# [Team](team.md)
-# [How We Work](playbook.md)
-# [Guidelines](guidelines.md)
+## Get Involved!
+We are a [bunch of nerds](team.md) who are enthusiastic about Open Source, FreeBSD, software development and a
+couple handfuls of other things- if that sounds like a good community, you can join us on the [BSDLabs](https://discord.gg/N4vCmpvXzW) or [FreeBSD](https://discord.gg/zcGHGrM54f) Discord! If you'd like to kick your shoes off and stay awhile, consider [becoming part of the team](joinus.md)!
