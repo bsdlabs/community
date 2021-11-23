@@ -13,3 +13,11 @@ expectations](playbook.md), and then message one of us
 [on Twitter](team.md) or Discord, if you're there. ([You should be
 there!](README.md#get-involved))
 
+### Your message should include...
+
+- Your interests
+- Your background and experience, especially with Open Source/FreeBSD
+- Ideas for what you could bring to the table
+- Any questions/comments/concerns with the guidelines and playbook you read
+  earlier
+
