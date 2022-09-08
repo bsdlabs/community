@@ -44,14 +44,24 @@ We highly recomment reading the following open source project social media polic
 
 ### Ideas & Specific Examples
 
- * Read through FreeBSDHelp Tweet / ReTweet / Reply history. Tons of different categories of content/tweets.
- * Setup a saved search like `freebsd lang:en` to monitor for new freebsd mentions. Include other languages if you can communicate in that language.
- * Subscribe to [dev-commits-src-main](https://lists.freebsd.org/mailman/listinfo/dev-commits-src-main) mailing list, watch for important or useful commits and tweet the summary and key details. Use @username mentions to thank authors, committers and companies if they sponsored it or were involved in it.
- * FreeBSDHelp has a [OpenSource Projects](https://twitter.com/i/lists/1340730882705874944) list. Follow their updates via that list, share and amplify their wins. **Example**: Project birthday or big release. **Idea**: If the software is in ports, do a showcase tweet on that software and @mention them.
- * FreeBSDHelp has a [FreeBSD People](https://twitter.com/i/lists/81179014) list. Follow their updates via that list, share and amplify their wins and updates.
+ * Review and watch FreeBSDHelp mentions and notification history.
+ * Review and watch `freebsd` mentions.
+
+Setup a saved search: [freebsd lang:en](https://twitter.com/search?q=freebsd+lang%3Aen&f=live). Include other languages if you can communicate in that language.
+ * Subscribe to and review [dev-commits-src-main](https://lists.freebsd.org/archives/dev-commits-src-main/) mailing list.
+
+ Pick out commits that look news-worthy or important and tweet a summary including key details. Use @username mentions to thank authors, committers and companies if they sponsored it or were involved in it.
+ 
+ * Review and watch the FreeBSDHelp [OpenSource Projects](https://twitter.com/i/lists/1340730882705874944) list. 
+
+Follow their updates via that list, share and amplify their wins. **Example**: Project birthday or big release. **Idea**: If the software is in ports, do a showcase tweet on that software and @mention them.
+
+ * Review and watch the FreeBSDHelp [FreeBSD People](https://twitter.com/i/lists/81179014) list.
+ 
+Follow their updates via that list, share and amplify their wins and updates.
+
  * Share and remind people about community events, conferences, meetings, upcoming stuff. 3 days before, 1 day before, a few hours before. Gives us opportunities to repeat content, grow participation, and help people not miss out.
 
-  
 ### Tips
 
  * Use images in your tweets whenever possible. Examples: Company or Product logos, screenshots, etc.
