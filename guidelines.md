@@ -59,6 +59,8 @@ Setup a saved search: [freebsd lang:en](https://twitter.com/search?q=freebsd+lan
 
 ### Ideas & Specific Examples
 
+The best reference for examples and ideas is, including all of those mentioned below, is [@FreeBSDHelp's Tweet History](https://twitter.com/freebsdhelp)
+
 #### FreeBSD commits (base, ports, doc) commits that look news-worthy or important
 
 Tweet a summary of the change, and include key details. Use @username mentions to thank authors, committers and companies if they sponsored it or were involved in it.
