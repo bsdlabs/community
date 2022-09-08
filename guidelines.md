@@ -74,6 +74,40 @@ Gives us opportunities to repeat content, grow participation, and help people no
 
   * **Examples**: BSDCon, Other Conferences, Project Birthday, Events, Meetings, Hackathons, etc. 3 days before, 1 day before, a few hours before.
 
+**Recurring: Open Source Project Spotlight**
+
+Pick an [Open Source Project on Twitter](https://twitter.com/i/lists/1340730882705874944)** that exists in FreeBSD Ports and showcase them in a tweet.
+
+ * Include @project in the tweet.
+ * Include a link to the Projects FreshPorts page.
+ * Use a couple of relevent hashtags.
+ * Do this once a month/week.
+ * Ask the FreeBSD Community for their project picks.
+
+**Recurring: FreeBSD / Open Source Contributor Spotlight**
+
+Pick an [FreeBSD / Open Source Person](https://twitter.com/i/lists/81179014) and showcase their contributions in a tweet.
+
+ * Include @person in the tweet, and/or the teams or things they work on.
+ * Include a link to their profile page or website.
+ * Ask the FreeBSD Community for their contributor picks.
+ * You could also ask the person for some info theyde like to share (Direct Message if open or Email)
+
+**Recurring: Run a Poll**
+
+Pick a topic or theme and run a Twitter poll. Do this once a week/month. Provides an opportunity for the community to get involved, discussion issues, and us an opportunity to repeat and share content (poll reminders, replies, etc)
+
+Tips:
+
+  * Pick 'good' topics. This isn't easy but shouldn' discourage you. Discuss ideas with the team for refinement/improvement.
+  * Run the poll for the full 7 days
+  * Try to keep questions and options as 'objective' as possible.
+  * Middle ground (neutral) options feel useful, but humans are too good at hedging. Avoid them if you can.
+
+**Recurring: This <period> in FreeBSD**
+ 
+Summarise some of the most salient changes, updates or wins of the last week or month in FreeBSD. This might be stuff we've individually posted about already, but might also include other news and updates that we've seen or heard about.
+
 ## Tips
 
  * Use images in your tweets whenever possible. Examples: Company or Product logos, screenshots, etc.
