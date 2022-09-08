@@ -19,20 +19,20 @@ We highly recomment reading the following open source project social media polic
 
 ### How We Work
 
-* Feel free to bring your own flavour to our persona
-* Represent, don't argue
-* Ask the team for advice if you're not comfortable or confident posting something
+* Feel free to bring your own flavour to our persona.
+* Represent, don't argue.
+* Ask the team for advice if you're not comfortable or confident posting something.
 * Respond to FreeBSD mentions on Twitter in a timely manner with quality engagement.
 * Amplify the contributions of community members, e.g. retweet someone's first issue created or port maintained.
 * Amplify the voice of community members, users and contributors alike.
 * Stimulate positive conversation and discourse about FreeBSD.
 * Positively amplify the work and contributions of relevant and related open-source Projects on Twitter.
 * Promote a positive, fun, and productive discourse and presence online.
-* Avoid bashing brands, companies, individuals, or other projects
-* Ignore negativity, unless you're **well** equipped to handle it
-* Don't share any personal/confidential information, including any kind of information shared with you in confidence or within private channels
-* Avoid speculation
-* Don't spam
+* Avoid bashing brands, companies, individuals, or other projects.
+* Ignore negativity, unless you're **well** equipped to handle it.
+* Don't share any personal/confidential information, including any kind of information shared with you in confidence or within private channels.
+* Avoid speculation.
+* Don't spam.
 
 ### Specific Examples
 
@@ -40,7 +40,7 @@ We highly recomment reading the following open source project social media polic
 * CONNECT: Loop in relevant FreeBSD experts if and when we can't answer questions ourselves, or to provide additional context.
 * SHARE: Share important, pivotal, and momentous commits (src, ports, doc) or other changes within the community.
 * CONVERSE AND QUESTION: Elicit community feedback, e.g. run polls with questions relevant to the community.
-* AMPLIFY: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.****
+* AMPLIFY: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.
 
 ### Ideas & Resources
 
