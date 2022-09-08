@@ -36,11 +36,11 @@ We highly recomment reading the following open source project social media polic
 
 ### Specific Examples
 
-* SUPPORT: Answer technical, organisational, or process questions asked by Twitter users about FreeBSD wherever possible.
-* CONNECT: Loop in relevant FreeBSD experts if and when we can't answer questions ourselves, or to provide additional context.
-* SHARE: Share important, pivotal, and momentous commits (src, ports, doc) or other changes within the community.
-* CONVERSE AND QUESTION: Elicit community feedback, e.g. run polls with questions relevant to the community.
-* AMPLIFY: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.
+* **SUPPORT**: Answer technical, organisational, or process questions asked by Twitter users about FreeBSD wherever possible.
+* **CONNECT**: Loop in relevant FreeBSD experts if and when we can't answer questions ourselves, or to provide additional context.
+* **SHARE**: Share important, pivotal, and momentous commits (src, ports, doc) or other changes within the community.
+* **CONVERSE AND QUESTION**: Elicit community feedback, e.g. run polls with questions relevant to the community.
+* **AMPLIFY**: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.
 
 ### Ideas & Resources
 
