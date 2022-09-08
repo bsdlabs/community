@@ -48,19 +48,35 @@ We highly recomment reading the following open source project social media polic
  * Review and watch `freebsd` mentions.
 
 Setup a saved search: [freebsd lang:en](https://twitter.com/search?q=freebsd+lang%3Aen&f=live). Include other languages if you can communicate in that language.
- * Subscribe to and review [dev-commits-src-main](https://lists.freebsd.org/archives/dev-commits-src-main/) mailing list.
 
- Pick out commits that look news-worthy or important and tweet a summary including key details. Use @username mentions to thank authors, committers and companies if they sponsored it or were involved in it.
- 
- * Review and watch the FreeBSDHelp [OpenSource Projects](https://twitter.com/i/lists/1340730882705874944) list. 
+ * Subscribe to and review [dev-commits-src-main mailing list](https://lists.freebsd.org/archives/dev-commits-src-main/). Every commit for FreeBSD base (src) gets listed here. Note: Ports is not listed here because it is high-volume, but can be subscribed to on the [dev-commits-ports-main mailing list](https://lists.freebsd.org/archives/dev-commits-ports-main/).
 
-Follow their updates via that list, share and amplify their wins. **Example**: Project birthday or big release. **Idea**: If the software is in ports, do a showcase tweet on that software and @mention them.
+ * Review and watch the FreeBSDHelp [Open Source Projects](https://twitter.com/i/lists/1340730882705874944) list. 
 
  * Review and watch the FreeBSDHelp [FreeBSD People](https://twitter.com/i/lists/81179014) list.
  
-Follow their updates via that list, share and amplify their wins and updates.
+ * Share and remind people about community events, conferences, meetings, upcoming stuff. 
 
- * Share and remind people about community events, conferences, meetings, upcoming stuff. 3 days before, 1 day before, a few hours before. Gives us opportunities to repeat content, grow participation, and help people not miss out.
+### Ideas & Specific Examples
+
+#### FreeBSD commits (base, ports, doc) commits that look news-worthy or important
+
+Tweet a summary of the change, and include key details. Use @username mentions to thank authors, committers and companies if they sponsored it or were involved in it.
+
+#### Share and amplify the wins and tweets of [Open Source Projects](https://twitter.com/i/lists/1340730882705874944)
+
+  * **Examples**: A projects birthday, big release, news or community poll.
+  * **Idea**: If the software is in ports, do a showcase tweet on that software and @mention them.
+
+#### Share and amplify the wins and tweets of [Open Source People](https://twitter.com/i/lists/81179014)
+
+  * **Examples**: Someones great Tweet or blog post on fixing a problem or building a new feature.
+
+#### Share and remind people about upcoming events. 
+
+Gives us opportunities to repeat content, grow participation, and help people not miss out.
+
+  * **Examples**: BSDCon, Other Conferences, Project Birthday, Events, Meetings, Hackathons, etc. 3 days before, 1 day before, a few hours before.
 
 ### Tips
 
