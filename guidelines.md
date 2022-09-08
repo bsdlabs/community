@@ -42,7 +42,7 @@ We highly recomment reading the following open source project social media polic
 * **CONVERSE AND QUESTION**: Elicit community feedback, e.g. run polls with questions relevant to the community.
 * **AMPLIFY**: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.
 
-### Ideas & Specific Examples
+### Staying Informed & Up-to-date
 
  * Review and watch FreeBSDHelp mentions and notification history.
  * Review and watch `freebsd` mentions.
