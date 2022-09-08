@@ -1,4 +1,4 @@
-## Guidelines
+# Guidelines
 
 While the [@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account is
 **not** an official FreeBSD account, it does aim to be the exemplar of best
@@ -17,7 +17,7 @@ We highly recomment reading the following open source project social media polic
 * [OWASP: Social Media Policy and Procedures](https://owasp.org/www-policy/operational/social-media)
 * [Apache: Social Media Best Practices](https://www.apache.org/foundation/marks/socialmedia)
 
-### How We Work
+## How We Work
 
 * Feel free to bring your own flavour to our persona.
 * Represent, don't argue.
@@ -34,7 +34,7 @@ We highly recomment reading the following open source project social media polic
 * Avoid speculation.
 * Don't spam.
 
-### Communication Pillars
+## Communication Pillars
 
 * **SUPPORT**: Answer technical, organisational, or process questions asked by Twitter users about FreeBSD wherever possible.
 * **CONNECT**: Loop in relevant FreeBSD experts if and when we can't answer questions ourselves, or to provide additional context.
@@ -42,22 +42,16 @@ We highly recomment reading the following open source project social media polic
 * **CONVERSE AND QUESTION**: Elicit community feedback, e.g. run polls with questions relevant to the community.
 * **AMPLIFY**: Highlight fun, new, unique and/or specific ways people can contribute to the FreeBSD Project.
 
-### Staying Informed & Up-to-date
+## Staying Informed & Up-to-date
 
- * Review and watch FreeBSDHelp mentions and notification history.
- * Review and watch `freebsd` mentions.
+  * Review and watch FreeBSDHelp mentions and notification history.
+  * Review and watch `freebsd` mentions.
+    Setup a saved search: [freebsd lang:en](https://twitter.com/search?q=freebsd+lang%3Aen&f=live). Include other languages if you can communicate in that language.
+  * Subscribe to and review [dev-commits-src-main mailing list](https://lists.freebsd.org/archives/dev-commits-src-main/). Every commit for FreeBSD base (src) gets listed here. Note: Ports is not listed here because it is high-volume, but can be subscribed to on the [dev-commits-ports-main mailing list](https://lists.freebsd.org/archives/dev-commits-ports-main/).
+  * Review and watch the FreeBSDHelp [Open Source Projects](https://twitter.com/i/lists/1340730882705874944) list. 
+  * Review and watch the FreeBSDHelp [FreeBSD People](https://twitter.com/i/lists/81179014) list. 
 
-Setup a saved search: [freebsd lang:en](https://twitter.com/search?q=freebsd+lang%3Aen&f=live). Include other languages if you can communicate in that language.
-
- * Subscribe to and review [dev-commits-src-main mailing list](https://lists.freebsd.org/archives/dev-commits-src-main/). Every commit for FreeBSD base (src) gets listed here. Note: Ports is not listed here because it is high-volume, but can be subscribed to on the [dev-commits-ports-main mailing list](https://lists.freebsd.org/archives/dev-commits-ports-main/).
-
- * Review and watch the FreeBSDHelp [Open Source Projects](https://twitter.com/i/lists/1340730882705874944) list. 
-
- * Review and watch the FreeBSDHelp [FreeBSD People](https://twitter.com/i/lists/81179014) list.
- 
- * Share and remind people about community events, conferences, meetings, upcoming stuff. 
-
-### Ideas & Specific Examples
+## Ideas & Specific Examples
 
 The best reference for examples and ideas is, including all of those mentioned below, is [@FreeBSDHelp's Tweet History](https://twitter.com/freebsdhelp)
 
@@ -80,7 +74,7 @@ Gives us opportunities to repeat content, grow participation, and help people no
 
   * **Examples**: BSDCon, Other Conferences, Project Birthday, Events, Meetings, Hackathons, etc. 3 days before, 1 day before, a few hours before.
 
-### Tips
+## Tips
 
  * Use images in your tweets whenever possible. Examples: Company or Product logos, screenshots, etc.
  * Use popular and important #hashtags, but don't overdo it. Pick the 2 most relevent, MAYBE/RARELY 3.
