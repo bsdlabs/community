@@ -61,20 +61,20 @@ Setup a saved search: [freebsd lang:en](https://twitter.com/search?q=freebsd+lan
 
 The best reference for examples and ideas is, including all of those mentioned below, is [@FreeBSDHelp's Tweet History](https://twitter.com/freebsdhelp)
 
-#### FreeBSD commits (base, ports, doc) commits that look news-worthy or important
+**FreeBSD commits (base, ports, doc) commits that look news-worthy or important**
 
 Tweet a summary of the change, and include key details. Use @username mentions to thank authors, committers and companies if they sponsored it or were involved in it.
 
-#### Share and amplify the wins and tweets of [Open Source Projects](https://twitter.com/i/lists/1340730882705874944)
+**Share and amplify the wins and tweets of [Open Source Projects](https://twitter.com/i/lists/1340730882705874944)**
 
   * **Examples**: A projects birthday, big release, news or community poll.
   * **Idea**: If the software is in ports, do a showcase tweet on that software and @mention them.
 
-#### Share and amplify the wins and tweets of [Open Source People](https://twitter.com/i/lists/81179014)
+**Share and amplify the wins and tweets of [Open Source People](https://twitter.com/i/lists/81179014)**
 
   * **Examples**: Someones great Tweet or blog post on fixing a problem or building a new feature.
 
-#### Share and remind people about upcoming events. 
+**Share and remind people about upcoming events.**
 
 Gives us opportunities to repeat content, grow participation, and help people not miss out.
 
