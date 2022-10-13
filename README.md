@@ -1,5 +1,5 @@
-Introduction
-============
+BSDLabs Community Team
+======================
 
 ## Mission and Purpose
 
