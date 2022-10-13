@@ -10,4 +10,4 @@
   * For big changes to the files here, create an issue, and wait for some
 	feedback. Then create a PR, and wait for some more feedback. :)
   * For smaller changes, only a PR or Issue may suffice.
-  * Make sure your changes are added to [the changelog](changelog.md).
+  * Make sure your changes are added to [the changelog](CHANGELOG.md).
