@@ -1,20 +1,20 @@
-# FreeBSDHelp Overview
+# FreeBSDHelp Twitter
 
-## Introduction
+We're trialling folks who are keen to join the [community team](README.md)
+and take the lead contributing to our [@FreeBSDHelp](https://twitter.com/FreeBSDHelp)
+Twitter social media account.
 
-We're trialling folks who are keen to contribute to the 
-[@FreeBSDHelp](https://twitter.com/FreeBSDHelp) Twitter account.
-
-This is the first practical initiative for the broader based
-community organizing and communication team.
-
-Right now the process is fairly informal, and we're using that as a
-mechanism to elicit feedback on a more fleshed out process going forward.
-
-While we don't require minimum time commitments or deep/previous
-experience with community organizing and communication, we do have
-some simple expectations that are key to what we're trying to achieve:
+Our [onboarding process](onboarding.md) is relaxed and informal, and while there
+are no explicit minimum time commitments or deep/previous experience with community 
+organizing, communication or FreeBSD expertise required, we do have some expectations
+that are key to what we're trying to achieve:
 
  * That team members participate in and as a team rather than in isolation.
- * That team members drive/champion the evolution of the team, as in "self-directed, self-organized and proactive".
+ * That team members drive/champion the evolution of the team, as in; proactive,
+   self-directed and self-organized.
  * Participation that is consistent and seeks to be of high quality.
+
+Check out our [team playbook](playbook.md) and our 
+[communication guidelines](guidelines.md) for details on how we do things.
+
+Sound like you? [Get in touch!](README.md#join-the-team)
