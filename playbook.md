@@ -1,8 +1,15 @@
 # How We Work
+
 ## Communications
-- Real-time messaging:
-  - [FreeBSD Discord Server](https://discord.gg/KmWB4aS8Et) (#community channel): The primary place for community discussions
-  - [BSDLabs Discord Server](https://discord.gg/9vZzzxz7y9): The place for higher-level BSDLabs discussions
+
+### BSDLabs Comms
+
+[BSDLabs Discord Server](https://discord.gg/9vZzzxz7y9): The place for BSDLabs and team discussions
+
+### Community Comms
+
+[FreeBSD Discord Server](https://discord.gg/KmWB4aS8Et) (#community channel): The place for broader FreeBSD / Community discussion
+
 - Persisted documentation: The [bsdlabs/community](https://github.com/bsdlabs/community) repo on GitHub
 
 ## Documentation
