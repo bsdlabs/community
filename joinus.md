@@ -1,23 +1,20 @@
 ## ONE OF US!
-### So, you'd like to become part of the team, huh?
 
-Are you:
-- Interested in tech?
-- Experienced with FreeBSD/Open Source?
-- Wanting to participate in the community?
+Heya!
 
-If you answered yes to some/all of these questions, **this might be for you!**
+If you haven't already, check out [our awesome team](team.md), our [mission](README.md#mission-and-purpose), [
+playbook](playbook.md) and [communication guidelines](guidelines.md). 
 
-Make sure you look at the [guidelines for social media](guidelines.md) and [general team
-expectations](playbook.md), and then message one of us
-[on Twitter](team.md) or Discord, if you're there. ([You should be
-there!](README.md#get-involved))
+If we feel like a good fit to you, jump on our [BSDLabs Discord](playbook.md#communications) and
+drop us an introduction. This isn't an interview or anything formal, but we do care about people
+caring :)
 
-### Your message should include...
+We'd love to hear:
 
-- Your interests
-- Your background and experience, especially with Open Source/FreeBSD
-- Ideas for what you could bring to the table
-- Any questions/comments/concerns with the guidelines and playbook you read
-  earlier
+ * How you heard about us.
+ * A basic background about you (interest areas, experience).
+ * Background, interest areas, experience in Technology, Open Source or FreeBSD, if any.
+ * Any ideas you'd like to bring to the table, or things you're super motivated by.
+ * What you believe makes you a great fit for our team.
+ * Any questions, comments or concerns you might have.
 
