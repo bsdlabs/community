@@ -13,7 +13,7 @@ wins and make progress on our challenges.
 
 We highly recomment reading the following open source project social media policies and guidelines:
 
-* [GitLab: Social Media Policy and Guidelines](https://about.gitlab.com/handbook/marketing/social-media-guidelines/)
+* [GitLab: Social Media Policy and Guidelines](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/)
 * [OWASP: Social Media Policy and Procedures](https://owasp.org/www-policy/operational/social-media)
 * [Apache: Social Media Best Practices](https://www.apache.org/foundation/marks/socialmedia)
 
