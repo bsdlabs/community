@@ -39,4 +39,12 @@
 - Timezone: US, (UTC -6)
 - Twitter: [@mitchellclay](https://twitter.com/mitchellclay)
 
+## DudleyI
+- About: Active public servant interested in teaching a skillset acquired over 26 years of general computer science enthusiasm.
+- Experience: Public service, humanitarian aide, leadership.
+- Interests: Security, process development, and team-building.
+- Skills: DevOps, cyber security, and information management.
+- Timezone: JP, (UTC +9)
+- Twitter: [dmakesmistakes](https://x.com/dmakesmistakes)
+
 
